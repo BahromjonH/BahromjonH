@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bahromjon Hojamov
 - 👀 I’m interested in, programming and variuos technologies
 - 🌱 I’m currently learning, and improving my skills
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Open to collaboration on interesting projects
 - 📫 How to reach me ...hojamov9494@mail.ru(+79915441454)
 
 <!---
